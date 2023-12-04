@@ -1,0 +1,10 @@
+pandas
+django==3.0.5
+djongo
+beautifulsoup4
+selenium
+mysql-connector
+mysqlclient
+sqlalchemy
+requests
+streamlit
